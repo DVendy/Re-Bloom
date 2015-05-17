@@ -1,10 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Meteor.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Meteor.cs">
     <Files>
-      <File FileName="Assets\Meteor.cs" Line="11" Column="3" />
-      <File FileName="Assets\My_Camera.cs" Line="11" Column="99" />
       <File FileName="Assets\Standard Assets\Utility\SmoothFollow.cs" Line="55" Column="97" />
+      <File FileName="Assets\Scripts\Script_Menu.cs" Line="23" Column="36" />
+      <File FileName="Assets\Script_Game.cs" Line="7" Column="25" />
+      <File FileName="Assets\Scripts\Meteor.cs" Line="10" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
